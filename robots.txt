@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://doopaezee.gabannabutterfly.eu/sitemap.xml
